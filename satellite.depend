@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1462650226 source:c:\users\hp\documents\codeblocksprojects\satellite\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<vector>
+	<sstream>
+	<stdlib.h>
+
+1463064302 source:d:\projects\codeblocks_projects\satellite\main.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cmath>
+	<vector>
+	<sstream>
+	<stdlib.h>
+
